@@ -66,5 +66,5 @@ applications where labeled data is expensive or difficult to obtain.
 
 # Want More Details? 📄
 If you're interested in a deeper dive, check out my full report here!  
-[Click here to view the report](https://github.com/Abdelrahman-Amen/Active_Learning_with_different_Query_Strategies/blob/main/Technical%20report.pdf)
+[Click here to view the report](https://github.com/Abdelrahman-Amen/Active_Learning_using_Imbalanced_Dataset/blob/main/Technical%20report.pdf)
 
